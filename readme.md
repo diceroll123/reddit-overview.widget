@@ -22,16 +22,17 @@ How to install widgets: [link](http://tracesof.net/uebersicht-widgets/#installat
 # Customization
 - Step 4 of [Setup](#setup), rather crucial in making this your own.
 - In ``index.coffee`` there's a ``settings`` object with a ``columns`` variable. Feel free to change this to your liking. 
- - *A positive integer is suggested.*
+  - *A positive integer is suggested.*
 
 # Various FYIs
 - To have a reddit avatar of your own, you'll need to enter their [beta](https://www.reddit.com/r/beta/).
- - I don't think you can leave the beta, *and if you can it's probably not easy*.
+  - I don't think you can leave the beta, *and if you can it's probably not easy*.
 - The usernames and subreddits are all clickable if you have the ``Interaction Shortcut`` setting enabled on Übersicht.
- - *This is mostly the reason this widget has subreddits available, so this is suggested.*
+  - *This is mostly the reason this widget has subreddits available, so this is suggested.*
 - You may or may not need to change the ``command`` (first line) in ``index.coffee`` to have the direct path to your python3 location.
- - To find that, just open your terminal and put in ``which python3``.
+  - To find that, just open your terminal and put in ``which python3``.
 
+# Screenshot
 ![Screenshot](https://github.com/diceroll123/reddit-overview.widget/blob/master/screenshot.png?raw=true)
 
 # License
