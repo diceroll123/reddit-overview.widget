@@ -8,6 +8,7 @@ I suggest thoroughly reading this readme. This will **_not_** work out-of-the-bo
 # Requirements
 * Python 3.6+
 * ``praw`` library (simply do `pip install praw`) *or `pip3 install praw`* in your terminal
+  - The widget disables update checks for praw, so keep praw, and this widget updated!
 * Basic Python knowledge
 
 # Setup
